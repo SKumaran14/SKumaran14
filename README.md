@@ -2,19 +2,19 @@
 
 <div align="right">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Kobigan1223.Kobigan1223)
+![](https://visitor-badge.glitch.me/badge?page_id=SKumaran14.SKumaran14)
 
 </div>
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm Kobigan K  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm Kumaran S  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
+<!--     <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp; -->
+    <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
    <!-- <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
 -->
  </p>
@@ -53,12 +53,12 @@
 </details>
 <center>
 <p align = "center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kobigan's Github Stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKumaran14&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kumaran's Github Stats">
 <br /><br />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKumaran14&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKumaran14&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
 </center>
 
@@ -106,8 +106,8 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/Kobigan1223"><b>here</b></a><br>
-or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
+Ask me anything <a href="https://github.com/SKumaran14"><b>here</b></a><br>
+or <a href="mailto:kumaransathiyavarathan@gmail.com"><b>email</b></a> me.
 
 ## <i>Happy Coding!</i> <img align="center"  alt="GIF" src="assets\images\sonic-dance.gif" />
 
