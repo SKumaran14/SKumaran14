@@ -34,7 +34,7 @@
 - ### 📫 How to reach me: Use any of the badges above 
 - ### 😄 Pronouns: [He/Him] 👦
 - 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; UI/UX Designer and front-end web developer.
+- 💼 &nbsp; front-end web developer.
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
   
 <br />
@@ -42,10 +42,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | MSSQL | MongoDB | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+- 🌐 &nbsp; Android  | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | MSSQL | 
+- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Photoshop | Figma
 
 <br>
 ## 😇 Some of my Github Public Stats
