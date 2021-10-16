@@ -125,12 +125,6 @@ or <a href="mailto:kumaransathiyavarathan@gmail.com"><b>email</b></a> me.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
-### Some of the technologies I have worked with-</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
+
 
 
