@@ -58,7 +58,6 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKumaran14&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKumaran14&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
 </center>
 
