@@ -33,8 +33,8 @@
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
 - ### 😄 Pronouns: [He/Him] 👦
-- 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; front-end web developer.
+- 🎓 &nbsp; Studying Data Science.
+- 💼 &nbsp; data engineer/ data sceintist.
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
   
 <br />
